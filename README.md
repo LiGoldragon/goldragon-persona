@@ -1,6 +1,6 @@
-# COMPLEX-NAME
+# persona-definition
 
-The definition of the complex COMPLEX-NAME: the being the living names and
+The definition of the complex persona-definition: the being the living names and
 talks to, as the Flow Nexus runs it. One `Configure` family per file, in the
 form Flow 0.53.3 and later read:
 
