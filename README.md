@@ -1,6 +1,6 @@
-# li-persona
+# goldragon-persona
 
-The definition of the complex li-persona: the being the living names and
+The definition of the complex Gold Dragon Persona: the being the living names and
 talks to, as the Flow Nexus runs it. One `Configure` family per file, in the
 form Flow 0.53.3 and later read:
 
