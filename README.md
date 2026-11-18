@@ -11,6 +11,6 @@ form Flow 0.53.3 and later read:
 - `models-0533.datom`: the native model each model name runs.
 - `thresholds-0533.datom`: each native model's context mark.
 
-CriomOS-home reads them from this repository, writes each to
-`~/.local/state/flow-declarations/` under its own name, and the Flow Nexus
-configuration unit replays them into the running Nexus.
+These files preserve the authored declarations. The running configuration is held in
+Flow's Memory, and the current Home deployment does not replay these files into it
+automatically.
