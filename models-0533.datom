@@ -1,9 +1,9 @@
 Configure.Models.[
-  { Astra gpt-6-astra }
+  { Astra gpt-6.2-astra }
   { Fable claude-fable-5-2 }
   { Haiku claude-haiku-5-5 }
   { Luna gpt-6-luna }
   { Opus claude-opus-5-5 }
-  { Sol gpt-6.1-sol }
+  { Sol gpt-6.2-sol }
   { Sonnet claude-sonnet-5-5 }
 ]
