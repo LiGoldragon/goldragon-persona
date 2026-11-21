@@ -1,13 +1,14 @@
 Configure.Thresholds.[
-  { claude-fable-5-1 280000 }
-  { claude-fable-5-2 280000 }
+  { claude-fable-5-1 330000 }
+  { claude-fable-5-2 330000 }
   { claude-haiku-5-5 200000 }
   { claude-opus-5-5 280000 }
   { claude-sonnet-5-5 280000 }
-  { gpt-5.6-luna 250000 }
-  { gpt-5.6-sol 250000 }
-  { gpt-6-astra 250000 }
-  { gpt-6-luna 250000 }
-  { gpt-6-sol 250000 }
-  { gpt-6.1-sol 250000 }
+  { gpt-5.6-luna 220000 }
+  { gpt-5.6-sol 220000 }
+  { gpt-6-luna 220000 }
+  { gpt-6-sol 220000 }
+  { gpt-6.1-sol 300000 }
+  { gpt-6.1-terra 300000 }
+  { gpt-6.2-sol 300000 }
 ]
