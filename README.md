@@ -14,3 +14,9 @@ form Flow 0.53.3 and later read:
 These files preserve the authored declarations. The running configuration is held in
 Flow's Memory, and the current Home deployment does not replay these files into it
 automatically.
+
+- `visualizer-refresh-mode.datom`: the address-scoped Manual refresh setting
+  for `{ Psyche visualizer Sonnet }`. The running declaration is already
+  held in Flow Memory. Apply the amendment with a paired Flow meta client
+  after that declaration exists; it changes only RefreshMode. Manual keeps
+  the same session at rest and leaves explicit lifecycle operations available.
