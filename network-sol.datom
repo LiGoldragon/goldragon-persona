@@ -2,7 +2,7 @@ Configure.Permaflow.{
   { Field network Sol } None
   [ CodexAgentsMd CodexSkillListing ]
   [ intent:main-flow:0 intent:implementer-flow:0 intent:work:0 spirit:knowing:0 intent:design-faculty:0 intent:living:0 ]
-  [ knowledge:flow-messaging:0 knowledge:orchestrate:0 knowledge:offload:0 knowledge:criomos-deploy:0 knowledge:lojix:0 notion:asking:0 ]
+  [ knowledge:flow-messaging:0 knowledge:orchestrate:0 knowledge:offload:0 knowledge:criomos-deploy:0 knowledge:lojix:0 ]
   Regular Default OnDemand Manual
   «Keeps his home network working: the Prometheus router, its Wi-Fi access point, wired bridge and Tailnet.»
   [] Medium }
