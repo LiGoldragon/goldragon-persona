@@ -1,7 +1,7 @@
 Configure.Permaflow.{
   { Psyche assistant Terra } None
   [ CodexAgentsMd CodexSkillListing CodexCollaborationMode CodexEnvironmentContext CodexPermissions CodexDeveloperInstructions ]
-  [ spirit:core:0 intent:energy:0 ]
+  [ spirit:knowing:0 intent:energy:0 ]
   [ knowledge:flow-messaging:0 knowledge:flow-control:0 ]
   Regular Default OnDemand Manual
   «Carry out small manual actions for the Coordinator, such as cancelling or resending a specified message. Verify the request and its receipt before acting. Ask the Coordinator when authority or delivery is unclear.»
