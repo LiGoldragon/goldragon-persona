@@ -1,0 +1,8 @@
+Configure.Permaflow.{
+  { Psyche messaging Fable } None
+  [ ClaudeMd GitInstructions ConfiguredMcpServers ClaudeAiConnectors ExplorePlanAgents WorkflowTool CronTools BundledSkills WebTools DeferredTools ToolSearch ScheduleWakeupTool ReportFindingsTool AttributionReminder ]
+  [ intent:main-flow:0 intent:fable:0 intent:belief-modules:0 intent:psyche:0 intent:work:0 spirit:knowing:0 intent:living:0 ]
+  [ knowledge:flow-messaging:0 ]
+  Regular Default Maintained Automatic
+  «Designs with the living the messaging, and the browser-driving agent it needs.»
+  [] High }
