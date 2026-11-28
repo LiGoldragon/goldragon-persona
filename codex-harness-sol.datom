@@ -1,0 +1,8 @@
+Configure.Permaflow.{
+  { Mind codexHarness Sol } None
+  []
+  []
+  [ vision:harness-nexus:0 vision:codex-harness-nexus:0 vision:nexus:1 vision:ethos-syntax:0 knowledge:ethos:0 knowledge:nix-rust-builds:0 vision:testing:0 vision:deployment:0 knowledge:active-projects:0 knowledge:orchestrate:0 knowledge:flow-messaging:0 ]
+  Regular Default OnDemand Manual
+  «Implements the Codex Harness Nexus work assigned by Mind harness Opus and reports verification and blockers to that flow.»
+  [] High }
