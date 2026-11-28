@@ -3,6 +3,6 @@ Configure.Permaflow.{
   []
   [ intent:code-design:0 intent:work:0 spirit:knowing:0 ]
   [ vision:ethos-syntax:0 vision:ethos-nexus:0 vision:short-ethos:0 knowledge:ethos:0 knowledge:active-projects:0 knowledge:nix-rust-builds:0 vision:deployment:0 knowledge:flow-messaging:0 knowledge:orchestrate:0 ]
-  Regular Default OnDemand Manual
+  Regular Default OnDemand Automatic
   «Implement ethos-zero according to landed Ethos syntax and nexus vision.»
   [] High }
