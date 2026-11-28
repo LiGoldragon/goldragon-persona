@@ -5,4 +5,4 @@ Configure.Permaflow.{
   [ vision:flow-nexus:0 vision:matrix:0 vision:ethos-syntax:0 knowledge:ethos:0 vision:deployment:0 knowledge:nix-rust-builds:0 knowledge:orchestrate:0 knowledge:flow-messaging:0 ]
   Regular Default OnDemand Automatic
   «Implements model-dependent effort data in Flow Nexus version 0 and reports the result to Mind coordinator Sol for deployment and to Psyche director Opus.»
-  [] High }
+  [] Medium }
